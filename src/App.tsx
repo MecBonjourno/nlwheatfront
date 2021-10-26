@@ -6,6 +6,7 @@ export function App() {
   return (
     <main className={styles.contentWrapper}>
       <MessageList />
+      <h1>OI</h1>
       <LoginBox />
     </main>
   )
